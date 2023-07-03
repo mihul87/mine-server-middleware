@@ -1,3 +1,5 @@
+Nuxt 3 - #21875 - https://github.com/nuxt/nuxt/issues/21875
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
